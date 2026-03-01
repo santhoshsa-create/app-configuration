@@ -1,5 +1,5 @@
 build:
   id: 101
   version: 1.2.3
-  name: "dev-Git-dev-build"
+  name: "updated-dev-Git-dev-build"
   type: "Git-Development Build"
